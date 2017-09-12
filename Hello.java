@@ -10,19 +10,19 @@ public class Hello {
 
     public static void callSign() {
         
-        system.out.println( "Lock S-foils in attack position." );
-		system.out.println( "Stabilize your rear deflectors... Watch for enemy fighters." );
+        System.out.println( "Lock S-foils in attack position." );
+	System.out.println( "Stabilize your rear deflectors... Watch for enemy fighters." );
     }
 
     public static void goldLeader() {
 	
- 	system.out.println( "Loosen up!" );   	
+ 	System.out.println( "Loosen up!" );   	
 
     }
 
     public static void redLeader() {
  
-        system.out.pritnln( "I copy, gold leader!"" );
+        System.out.println( "I copy, gold leader!" );
         
 
     }
